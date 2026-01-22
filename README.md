@@ -86,10 +86,8 @@ Git • GitHub • Android Studio • VS Code • Firebase • AWS • GCP
 ---
 
 ## 🏆 GitHub Trophies
+...
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=medicherlamythravarun&theme=flat&margin-w=10&no-frame=true" />
-</p>
 
 
 ---
@@ -101,7 +99,3 @@ Git • GitHub • Android Studio • VS Code • Firebase • AWS • GCP
 </p>
 
 ---
-
-<p align="center">
-<img src="https://visitcount.itsvg.in/api?id=medicherlamythravarun&icon=0&color=0"/>
-</p>
