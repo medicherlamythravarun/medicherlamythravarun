@@ -1,34 +1,106 @@
-# 💫 About Me:
-Hi 👋, I'm Mythra Varun Medicherla<br><br>🎓 I am a Computer Science student with a strong interest in software development and Machine Learning and also problem-solving.  <br>💻 I enjoy turning ideas into real-world applications and continuously improving my technical skills through hands-on projects and consistent practice.<br><br>🧠 My core interests include Data Structures & Algorithms, Object-Oriented Programming, and Android Development.  <br>I regularly solve coding problems to strengthen my logical thinking and write clean, efficient, and maintainable code.<br><br>🛠️ **Technical Skills**<br>- **Languages:** C,C++, Java, Kotlin, Python<br>- **Development:** Android Development and Web development <br>- **Core Concepts:** DSA, OOPs, DBMS, Computer Network, Operating System<br>- **Tools:** Git, GitHub, Android Studio, VS Code, <br><br>🌱 Currently, I am focused on:<br>- Improving my DSA problem-solving skills  <br>- Building Android applications from scratch  <br>- Writing better, optimized, and readable code  <br><br>🎯 **Career Goal:**  <br>To become a skilled Software Engineer who builds impactful products, contributes to meaningful projects, and keeps growing with technology.<br><br>📫 **Connect with me:**  <br>- Email: medicherlamythravarun@gmail.com<br>- GitHub: https://github.com/medicherlamythravarun<br>
+<h1 align="center">Hi 👋, I'm Mythra Varun Medicherla</h1>
+<h3 align="center">Computer Science Student | Android Developer | ML Enthusiast</h3>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Mythra Varun Medicherla) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Medicherlamythravarun) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:medicherlamythravarun@gmail.com) 
-
-
-<!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=medicherlamythravarun&theme=default&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=medicherlamythravarun&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=medicherlamythravarun&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=medicherlamythravarun&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=medicherlamythravarun&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+🎓 B.Tech CSE @ Lovely Professional University <br/>
+💻 Passionate about Software Development, Machine Learning & Problem Solving
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=medicherlamythravarun&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💫 About Me
+
+- 🧠 Strong interest in **Data Structures & Algorithms**, **OOP**, and **Android Development**
+- 💡 Love turning ideas into **real-world applications**
+- 🛠️ Constantly improving through **projects, practice, and consistency**
+- 🧪 Focused on writing **clean, efficient, and maintainable code**
+
+### 🎯 Career Goal
+To become a skilled **Software Engineer** who builds impactful products, contributes to meaningful projects, and grows continuously with technology.
+
+---
+
+## 🛠️ Technical Skills
+
+### 💻 Programming Languages
+`C` `C++` `Java` `Kotlin` `Python`
+
+### 📱 Development
+- Android Development (Kotlin)
+- Web Development (Frontend & Backend basics)
+
+### 📚 Core Concepts
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- DBMS
+- Computer Networks
+- Operating Systems
+
+### 🔧 Tools & Platforms
+Git • GitHub • Android Studio • VS Code • Firebase • AWS • GCP
+
+---
+
+## 💻 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,cpp,java,kotlin,python,html,css,js,react,express,androidstudio,firebase,aws,gcp,mongodb,mysql,git,github,figma" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://linkedin.com/in/Mythra Varun Medicherla">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+<a href="https://medium.com/@Medicherlamythravarun">
+<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium"/>
+</a>
+<a href="mailto:medicherlamythravarun@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=medicherlamythravarun&show_icons=true&theme=default" />
+<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=medicherlamythravarun&theme=default" />
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=medicherlamythravarun&layout=compact&theme=default" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=medicherlamythravarun&theme=radical&no-frame=false&no-bg=true&margin-w=15" />
+</p>
+
+---
+
+## ✍️ Random Dev Quote
+
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+---
+
+<p align="center">
+<img src="https://visitcount.itsvg.in/api?id=medicherlamythravarun&icon=0&color=0"/>
+</p>
